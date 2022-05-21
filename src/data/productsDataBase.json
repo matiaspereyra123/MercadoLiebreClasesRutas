@@ -151,14 +151,5 @@
 		"category": "visited",
 		"description": "Silla Gamer!",
 		"image": "1652663650207.jpg"
-	},
-	{
-		"id": 21,
-		"name": "Guantes Box Everlast",
-		"price": "11500",
-		"discount": "5",
-		"category": "in-sale",
-		"description": "Guantes Everlast Pro\r\n\r\nPROBANDO EDITANDO CONTENIDO...",
-		"image": "1653010081022.jpg"
 	}
 ]
